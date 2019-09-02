@@ -4,4 +4,8 @@ function saludo(){
 
 function saludo2(){
 	console.log("Saludando");
+
+}
+function hola(){
+	alert('hola mundo');
 }
